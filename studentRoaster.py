@@ -22,7 +22,6 @@ student_records = [
     }
 ]
 
-
 def analyze_roster(roster_list):
     """
     Processes the student roster to calculate averages and find unique courses.
